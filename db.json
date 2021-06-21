@@ -6,27 +6,27 @@
         "title": "Write Expose",
         "description": "Find your new feline friend at this event.",
         "location": "Meow Town",
-        "date": "January 28, 2022",
+        "date": "June 28, 2021",
         "time": "12:00",
         "organizer": "Kat Laydee"
       },
       {
         "id": 456,
         "category": "food",
-        "title": "Community Gardening",
+        "title": "Vue Js Course",
         "description": "Join us as we tend to the community edible plants.",
         "location": "Flora City",
-        "date": "March 14, 2022",
+        "date": "June 23, 2021",
         "time": "10:00",
         "organizer": "Fern Pollin"
       },
       {
         "id": 789,
         "category": "sustainability",
-        "title": "Beach Cleanup",
+        "title": "Fix Bug Backend Bug",
         "description": "Help pick up trash along the shore.",
         "location": "Playa Del Carmen",
-        "date": "July 22, 2022",
+        "date": "July 22, 2021",
         "time": "11:00",
         "organizer": "Carey Wales"
       }
