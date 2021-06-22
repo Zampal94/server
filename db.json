@@ -5,30 +5,30 @@
         "category": "Phd",
         "title": "Write Expose",
         "description": "Find your new feline friend at this event.",
-        "location": "Meow Town",
+        "location": "Rosenheim",
         "date": "June 28, 2021",
         "time": "12:00",
-        "organizer": "Kat Laydee"
+        "organizer": "Daniel Regulin"
       },
       {
         "id": 456,
-        "category": "food",
+        "category": "other",
         "title": "Vue Js Course",
         "description": "Join us as we tend to the community edible plants.",
-        "location": "Flora City",
+        "location": "Rosenheim",
         "date": "June 23, 2021",
         "time": "10:00",
-        "organizer": "Fern Pollin"
+        "organizer": "Lucas Janisch"
       },
       {
         "id": 789,
-        "category": "sustainability",
+        "category": "Implementation",
         "title": "Fix Bug Backend Bug",
         "description": "Help pick up trash along the shore.",
-        "location": "Playa Del Carmen",
+        "location": "München",
         "date": "July 22, 2021",
         "time": "11:00",
-        "organizer": "Carey Wales"
+        "organizer": "Lucas Janisch"
       }
     ]
   }
